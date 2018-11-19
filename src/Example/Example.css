@@ -1,0 +1,25 @@
+.progress-bar {
+    width: 100px;
+    height: 20px;
+    color: #FFFFFF;
+    background-color: #000000;
+    display: flex;
+}
+
+.bar-done {
+    height: 20px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.bar-undone {
+    height: 20px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.shadow-number {
+    display: none;
+}
